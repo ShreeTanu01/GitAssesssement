@@ -21,7 +21,11 @@ public class SumOfDigit {
 		result = s.SUMDigits(number);
 		System.out.println("Sum of digits " + number +" is : " + result );
 		
+		
+		
+		
+		System.out.println("test git");
 	}
 	
-
+	
 }
